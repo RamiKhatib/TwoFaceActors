@@ -1,0 +1,17 @@
+{
+  "name": "twofaceactors",
+  "version": "1.0.0",
+  "description": "WebApplication",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiKhatib/TwoFaceActors.git"
+  },
+  "author": "RK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RamiKhatib/TwoFaceActors/issues"
+  },
+  "homepage": "https://github.com/RamiKhatib/TwoFaceActors#readme"
+}
