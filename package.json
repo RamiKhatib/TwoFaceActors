@@ -2,8 +2,7 @@
   "name": "twofaceactors",
   "version": "1.0.0",
   "description": "WebApplication",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RamiKhatib/TwoFaceActors.git"
@@ -13,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/RamiKhatib/TwoFaceActors/issues"
   },
-  "homepage": "https://github.com/RamiKhatib/TwoFaceActors#readme"
+  "homepage": "https://github.com/RamiKhatib/TwoFaceActors#readme",
+  "dependencies": {
+    "angular": "^1.7.4"
+  }
 }
